@@ -31,5 +31,10 @@ namespace diseaster_managment
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Login Successful");
+        }
     }
 }
